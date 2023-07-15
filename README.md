@@ -1,4 +1,3 @@
-### Hi there 👋
 
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="400" height="300"/>
@@ -17,6 +16,11 @@
 <div id="badges" align="center">
 <img src="https://komarev.com/ghpvc/?username=Toniktes&style=flat-square&color=green" alt=""/>
 </div>
+
+<h1 align="center">
+  Hi there
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
+</h1>
 
 ### :man_technologist: About Me : 
 - <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> I am a Java Developer from Saint-Petersburg.
