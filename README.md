@@ -17,6 +17,16 @@
 <div id="badges" align="center">
 <img src="https://komarev.com/ghpvc/?username=Toniktes&style=flat-square&color=green" alt=""/>
 </div>
+
+### :man_technologist: About Me : 
+- <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> I am a Java Developer from Sain-Petersburg.
+
+- :telescope: I use Java, Spring, Maven, Git, Sql and other technologies to develop services.
+
+- :zap: In my free time, I solve problems on CodeWars, JavaRush and read tech articles.
+
+- :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/anton-teslia-b291bb26a) [![Telegram Badge](https://img.shields.io/badge/-Telegram-blue?style=flat&logo=Telegram&logoColor=white)](https://t.me/Toniktes) teslyaanton@yandex.ru
+
 <!--
 **Toniktes/Toniktes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
