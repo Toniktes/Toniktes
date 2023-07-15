@@ -1,5 +1,22 @@
 ### Hi there 👋
 
+<div id="header" align="center">
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="400" height="300"/>
+</div>
+<div id="badges" align="center">
+  <a href="https://www.linkedin.com/in/anton-teslia-b291bb26a">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+  </a>
+  <a href="https://t.me/Toniktes">
+    <img src="https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram Badge"/>
+  </a>
+  <a href="https://spb.hh.ru/resume/f1307d07ff0bd9b1bd0039ed1f674531565647">
+    <img src="https://img.shields.io/badge/Hedhunter-red?style=for-the-badge&logo=hh&logoColor=white" alt="Hedhunter Badge"/>
+  </a>
+</div>
+<div id="badges" align="center">
+<img src="https://komarev.com/ghpvc/?username=Toniktes&style=flat-square&color=green" alt=""/>
+</div>
 <!--
 **Toniktes/Toniktes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
