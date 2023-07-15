@@ -45,6 +45,12 @@
   <img src="https://myslide.ru/documents_3/3cc0aeecedd0fd8a1df431d06709d288/img39.jpg" title="Mockito" **alt="Mockito" width="40" height="40"/>
 </div>
 
+---
+
+### :fire: My Stats :
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Toniktes&theme=dark&background=000000)](https://git.io/streak-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Toniktes&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 <!--
 **Toniktes/Toniktes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
