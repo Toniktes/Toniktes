@@ -19,7 +19,7 @@
 </div>
 
 ### :man_technologist: About Me : 
-- <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> I am a Java Developer from Sain-Petersburg.
+- <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> I am a Java Developer from Saint-Petersburg.
 
 - :telescope: I use Java, Spring, Maven, Git, Sql and other technologies to develop services.
 
